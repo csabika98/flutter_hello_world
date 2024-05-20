@@ -22,18 +22,17 @@ My first app built in Flutter.
 - [VS Code](https://code.visualstudio.com/)
 
 ### Installation
-
-```sh
 1. Clone the repository:
+```sh
    git clone https://github.com/csabika98/hello_world_flutter.git
 ```
-```sh
 2. Navigate to the project directory:
+```sh
    cd hello_world_flutter
 ```
 
-```sh
 3. Get the dependencies:
+```sh
    flutter pub get
 ```
 
