@@ -23,32 +23,32 @@ My first app built in Flutter.
 
 ### Installation
 
-```json
+```sh
 1. Clone the repository:
    git clone https://github.com/csabika98/hello_world_flutter.git
 ```
-```json
+```sh
 2. Navigate to the project directory:
    cd hello_world_flutter
 ```
 
-```json
+```sh
 3. Get the dependencies:
    flutter pub get
 ```
 
 ### Launching the App
 
-```json
+```sh
 1. Open `lib/main.dart` in VS Code.
 ```
-```json
+```sh
 2. Select your target device in the bottom right corner of VS Code.
 ```
-```json
+```sh
 3. Click the "play" button in the upper right-hand corner of VS Code.
 ```
-```json
+```sh
 4. The app will launch in debug mode.
 ```
 
